@@ -1,5 +1,5 @@
-﻿# Project Name/Title Goes Here
-I am working on a Retropie game emulator with custom controllers.
+﻿# Retropie Game Emulator
+I am working on a game emulator using Retropie with custom controllers.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
