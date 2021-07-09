@@ -3,7 +3,7 @@ I am working on a Retropie game emulator with custom controllers.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Yishai Orbach | Frisch | Engineering | Incoming Freshman
+| Yishai O | Frisch | Engineering | Incoming Freshman
 
 ![retropie](https://user-images.githubusercontent.com/87200931/125113420-a3b2b600-e0b6-11eb-86c2-c310786b610e.jpeg)
  
@@ -14,7 +14,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-My second milestone was adding a game to my Retropie. First, not knowing I had a USB to use, I tried to connect through 
+My second milestone was adding a game to my Retropie. First, not knowing I had a USB to use, I tried to connect through a downloadable app on the computer, but that didn't work. 
 
 [![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
