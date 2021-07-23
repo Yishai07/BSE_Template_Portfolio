@@ -11,7 +11,8 @@ I am working on a game emulator using Retropie with custom controllers.
 # Final Milestone
 My third and final milestone is creating my own custom controller. I had to learn how to code and use an arduino, as I had never done either of those things before. I also had to learn how to solder, because all of the buttons on my controller required me to solder them onto a proto board, which I had also never done before. I had never wired anything either, so I had a lot of researching and learning that I had to do before I could even start. What I hadn't realized was that I needed a specific type of Arduino for my controller, so I accidentally ordered the wrong one. It took a while to order a new one and wait for it to arrive, so I couldn't wire everything together for a few days. In the end though, it wasn't a big loss, as I used the time to code and finish everything, and I ended up with a fully functioning controller! I was originally going to make it wireless, but I ran out of time, so I will attempt it on my own. Below I included a picture of the controller and a snippet of the code.
 
-![Arduino Code](https://user-images.githubusercontent.com/87200931/126812355-d268fb08-a018-4307-871a-9d7caf7bce9c.png)
+![carbon](https://user-images.githubusercontent.com/87200931/126815258-028271ab-c74b-4342-9703-931f0e1926f0.png)
+
 
 ![Custom Arduino Controller](https://user-images.githubusercontent.com/87200931/126813439-331da317-6499-492a-a511-1cdc0fb86ab5.png)
 
