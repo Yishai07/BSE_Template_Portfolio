@@ -9,7 +9,11 @@ I am working on a game emulator using Retropie with custom controllers.
  
  
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+My third and final milestone is creating my own custom controller. I had to learn how to code and use an arduino, as I had never done either of those things before. I also had to learn how to solder, because all of the buttons on my controller required me to solder them onto a proto board, which I had also never done before. I had never wired anything either, so I had a lot of researching and learning that I had to do before I could even start. What I hadn't realized was that I needed a specific type of Arduino for my controller, so I accidentally ordered the wrong one. It took a while to order a new one and wait for it to arrive, so I couldn't wire everything together for a few days. In the end though, it wasn't a big loss, as I used the time to code and finish everything, and I ended up with a fully functioning controller! Below I included a picture of the controller and a snippet of the code.
+
+![Arduino Code](https://user-images.githubusercontent.com/87200931/126812355-d268fb08-a018-4307-871a-9d7caf7bce9c.png)
+
+
 
 [![Yishai's Milestone Three Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1626920891/video_to_markdown/images/youtube--88QBnu43oSg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/88QBnu43oSg "Yishai's Milestone Three Video"){:target="_blank" rel="noopener"}
 
